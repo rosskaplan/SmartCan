@@ -1,0 +1,4 @@
+SmartCan
+========
+
+Smart Garbage Can
