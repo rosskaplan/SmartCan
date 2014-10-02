@@ -1,4 +1,4 @@
 SmartCan
 ========
 
-Smart Garbage Can
+Spark-Connected Garbage Can
