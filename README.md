@@ -12,6 +12,8 @@ SHARP Distance Sensor: http://www.sharpsma.com/webfm_send/1205
 
 Advertisement: file:///Users/Mateen/Documents/Smart%20Garbage%20Can%20II.htm
 
+PowerPoint: https://docs.google.com/presentation/d/1mZKYvnStc_GIAV8qWQSUehvzj8xpweWXXkCD-7g6ock/edit?pli=1#slide=id.p20
+
 
 MIDTERM PRESENTATION:
 
