@@ -1,4 +1,4 @@
 UPDATE 12/2/14:
   Yesterday, we went to the EE lab and soldered the connections for our SparkCore. We then plugged the wired connections of the IR sensor to the SparkCore and began testing for reading data. While the numbers were sometimes far from correct (even within the operational range), it often produced reasonably accurate distances.
   While the wifi has been patchy, we have been able to read data to the spark core smartphone application and essentially read height data from our sparkcore.  
-  Tonight we will begin to work with the scale we purchased to hack the load cells to get the weight data as well.
+  Tonight, we will begin to work with the scale we purchased to hack the load cells to get the weight data as well.
