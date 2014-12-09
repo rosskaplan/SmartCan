@@ -6,13 +6,6 @@ Spark-Connected Garbage Can
 
 Assumptions + Ideas → Product
 
-How to Hack a Digital Weighing Scale: http://quo.vadis.stojkovic.ch/hacking-a-weighing-scale/
-
-SHARP Distance Sensor: http://www.sharpsma.com/webfm_send/1205
-
-PowerPoint: https://docs.google.com/presentation/d/1mZKYvnStc_GIAV8qWQSUehvzj8xpweWXXkCD-7g6ock/edit?pli=1#slide=id.p20
-
-
 MIDTERM PRESENTATION:
 
 Introduction and Problem Statement: Tired of carrying a heavy garbage bag and always ripping it? Missing your opportunity to take the trash out at the right time? People are often lazy and they keep filling their garbage can to the brim. They are forced to attempt to close the bag, only to realize it either does not close or is now too heavy. However, they now have no option but to struggle taking the bag outside. But, whoops! The bag rips and all of their garbage is now back on the ground. Introducing the first residential smart garbage can! This "SmartCan" is connected to the cloud and can let you know when it is the perfect time to take out your trash. 
