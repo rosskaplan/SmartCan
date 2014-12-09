@@ -1,4 +1,77 @@
+UPDATE 11/7/14:
+  Launched our website: smartcan.brace.io
+  Created Facebook, Twitter, GMail, Google Analytics accounts for the SmartCan that are linked to the website
+
+UPDATE BETWEEN 11/7/14 - 11/17/14:
+  Reviewed problems about our website and spoke to many students and professors to figure out the most efficient way to display
+  the website and to get results.
+  
+UPDATE 11/17/14:
+  We told friends about the website. We posted it on Facebook, giving some background information about the product and then we
+  asked people to sign up for the beta testing. For example, one example of a Facebook post was: 
+  
+  ********************************************************STOP SCROLLING********************************************************
+  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+  Good, now I have your attention. I have been working in a group for school to develop a connected trash can. You read correctly,
+  we have built a garbage can that alerts you when it is too full. We have put tons of work into this project already, and we have
+  a thorough plan for how our product will work. But now I need your support. Follow the link, and join the Beta!
+  http://smartcan.brace.io
+
+UPDATE 11/20/14:
+  We realized that we did not get not many outsiders to give us input for the product. We decided a better way to get the input of
+  these people is by making flyers and handing them out to them in the city. After flooding the streets with fliers, we realized
+  people do not care. Most of them crumbled up the flyers after walking away from us, without even looking at them. Still, not
+  many unknown people were joining our beta.
+  
+UPDATE 11/23/14:
+  Gabe, reached out to Twitch.tv and asked them to post our website on their live chats. They did respond and followed through
+  by posting the website. 63 views came in that night from all over the world, but only one person signed up for the beta.
+
+UPDATE 11/25/14:
+  We went back to the drawing board and tried to understand where our problems were arising. We figured that the problem may be 
+  with our website or with the flyers. We changed both of them and decided to hand them out in New York City again. Once again
+  we got the same results.
+
+UPDATE BETWEEN 11/27/14 - 11/30/14:
+  We assumed that people in New York City are outliers for receiving data. Thus, over Thanksgiving break, we handed out the flyers
+  at our hometowns of Toms River and Long Island. Again, people responded in the same manner of throwing out the flyers without
+  even looking.
+  
+UPDATE 11/30/14:
+  Emailed Gizmag news to see if they can post our website on their blog with information to hopefully increase our beta testers.
+
 UPDATE 12/2/14:
-  Yesterday, we went to the EE lab and soldered the connections for our SparkCore. We then plugged the wired connections of the IR sensor to the SparkCore and began testing for reading data. While the numbers were sometimes far from correct (even within the operational range), it often produced reasonably accurate distances.
-  While the wifi has been patchy, we have been able to read data to the spark core smartphone application and essentially read height data from our sparkcore.  
+  Yesterday, we went to the EE lab and soldered the connections for our SparkCore. We then plugged the wired connections of the 
+  IR sensor to the SparkCore and began testing for reading data. While the numbers were sometimes far from correct (even within 
+  the operational range), it often produced reasonably accurate distances.
+  While the wifi has been patchy, we have been able to read data to the spark core smartphone application and essentially read 
+  height data from our sparkcore.
+  We have the code written and it will be displayed in the "Code" file.
   Tonight, we will begin to work with the scale we purchased to hack the load cells to get the weight data as well.
+  
+  Night - we took apart the scale to get started on the prototype.
+  Since not many people signed up for the beta, we do not have enough information to base our prototype off of.
+  We found the load cell and researched different ways to hack a scale.
+  However, it turned out the load cell was not an accurate representation of weight. Our friend Nick offered us his force sensor.
+  
+UPDATE 12/3/14:
+  Still have not received an email from Gizmag - clearly they do not care about nor believe in our product.
+  
+UPDATE 12/4/14:
+  Up until this point, not many random people have been joining our beta. Consequently, we decided to pay $20 for Facebook to
+  boost a status of our product to 50,000 people in the United States, Israel and the United Arab Emirates. Many people liked our
+  page and status and the views on our site increased, yet still nobody signed up for the beta.
+
+UPDATE 12/5/15:
+  Our friend who offered us his force sensor actually needed his back so now we were forced to find another method of weight
+  sensing. 
+  We discovered the company that makes the force sensors (Interlink Electronics).
+  We found a big, square shaped force sensor (FSR 406) and were looking to see how much they cost so we clicked “How to Buy”.
+  We came across a forum, allowing us to contact them.
+  There were many options regarding what our request was and one option was a "Sensor Sample Request".
+  We filled out the form, asking if it is possible to receive 3 samples and they responded the next day with a "yes".
+  We informed them that we needed it as soon as possible and they agreed to send it to us and it should be in our hands by next
+  week sometime.
+
+
+
