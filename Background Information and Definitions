@@ -1,0 +1,15 @@
+The whole idea of a smart garbage can came to mind when one of our fellow classmates went to throw something out. After throwing
+out his garbage, he looked up and said, "I wish that can was 'smart'". Once the rest of the ideas were developed, he followed
+the path to another project, while the four of us thought of ways to improve on making a garbage can "smart". We decided to
+include weight sensors, IR sensors and possibly aerosol cans to improve a normal garbage can and then all of the data will be used
+to notify users of the can of various aspects. A sparkcore was used to translate the data from one place (the trash), to another
+(the user). We then conducted alpha tests that were not noted to be that important and then finally planned on conducting beta 
+tests of the public to see what THEY truly believe about our product. But what does "smart" mean to begin with? What are some of 
+the other words used? Read along to be able to get a good understanding of what the SmartCan is about.
+
+"smart" - the word "smart" is used to refer to technology in this aspect. According to gcn.com, "smart technology is about 
+          squeezing big performance improvements out of everything from electric grids and transportation networks to water supply
+          systems and health care services by trying to align constrained supply with erratic demand more systematically." In 
+          other words, the term "smart" relates to anything that is electronically connected to the cloud (internet) via a device
+          (such as an arduino or rasberry pi) and can possibly send data to it.
+
