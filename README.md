@@ -17,6 +17,7 @@ The SmartCan comes with sensors installed to report your trashcan's current heig
 Sensors, Materials and Resources Used:
 ========
 FSR 406 Weight/Force Sensor: http://www.interlinkelectronics.com
+
 Sharp GP2Y0A21YK Infrared Proximity Sensor 10-80cm: https://www.sparkfun.com/products/242
                                     OR
 Sharp GP2D120XJ00F Analog Distance Sensor 4-30cm: http://www.pololu.com/product/1136
