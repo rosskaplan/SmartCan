@@ -32,7 +32,7 @@ How Does it Work?:
 ========
 SmartCan works because of the Spark Core, a web-enabled device that can connect to the cloud. It uploads data from the connected devices to the Internet. That data is then read by our free iOS app.
 
-How did we going to Construct our Product?
+How Did we Construct our Product?
 ========
 We connected our peripheral devices to the Spark Core . This involves wiring the distance sensor into the circuit, and hacking into the digital scale’s load cell to connect it to our core. After that is done, we go about putting together the pieces and creating the product.
 
