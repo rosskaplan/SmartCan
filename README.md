@@ -19,15 +19,11 @@ Sensors, Materials and Resources Used:
 FSR 406 Weight/Force Sensor: http://www.interlinkelectronics.com
 
 Sharp GP2Y0A21YK Infrared Proximity Sensor 10-80cm: https://www.sparkfun.com/products/242
-                                    
-                                    OR
-                                    
+
 Sharp GP2D120XJ00F Analog Distance Sensor 4-30cm: http://www.pololu.com/product/1136
 
 The Spark Core: https://www.spark.io
-             
-              OR
-              
+
 The Photon: https://www.spark.io
 
 These devices will allow us to measure the weight of the scale and the height of the garbage and send the information to the cloud.
