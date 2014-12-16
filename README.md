@@ -6,9 +6,23 @@ Spark-Connected Garbage Can
 
 Assumptions + Ideas → Product
 
-MIDTERM PRESENTATION:
+WHAT IS SMARTCAN? WHAT IS OUR CAUSE?
+========
+Tired of carrying a heavy garbage can and always ripping it? Missing your opportunity to take the trash out at the right time? It is easy to ignore the mundane task of dumping the garbage as it fills up. When attempting to close the bag, the bag rips. Now your garbage is all over the ground. Introducing the first residential smart garbage can! The "SmartCan" is a cloud-connected garbage can that informs you of when it is the perfect time to take out your trash.
 
-Introduction and Problem Statement: Tired of carrying a heavy garbage bag and always ripping it? Missing your opportunity to take the trash out at the right time? People are often lazy and they keep filling their garbage can to the brim. They are forced to attempt to close the bag, only to realize it either does not close or is now too heavy. However, they now have no option but to struggle taking the bag outside. But, whoops! The bag rips and all of their garbage is now back on the ground. Introducing the first residential smart garbage can! This "SmartCan" is connected to the cloud and can let you know when it is the perfect time to take out your trash. 
+DESIGN PROCESS - MATERIALS AND RESOURCES USED:
+========
+The SmartCan comes with sensors installed to report your trashcan's current height and weight directly to YOU, the user. It automatically connects to your smartphone through our app to keep you updated. Based on your settings, you can choose whether you want to be notified once a day, or only if the height or weight exceeds a fixed level. That means no more late night panicking when it's time to dump the garbage. There are also plans to add built-in aeorsol dispensers throughout the entire height of the can, so your trash will never smell!
+
+SENSORS
+========
+FSR 406 Weight/Force Sensor: http://www.interlinkelectronics.com
+Sharp GP2Y0A21YK Infrared Proximity Sensor 10-80cm: https://www.sparkfun.com/products/242
+                                    OR
+Sharp GP2D120XJ00F Analog Distance Sensor 4-30cm: http://www.pololu.com/product/1136
+
+
+
 
 Progress: So far, we have acquired a digital scale, an infrared distance sensor, and a spark core. This will enable us to measure the weight of the scale and the height of the garbage and send the information to the cloud.  We have connected the spark core to the Internet, as well as have constructed the framework of a program that will run on the user's phone, which will take the information and notify users when the garbage weighs too much, or is full.  
 
