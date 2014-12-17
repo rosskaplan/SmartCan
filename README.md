@@ -6,7 +6,7 @@ Spark-Connected Garbage Can
 
 Assumptions + Ideas → Product
 
-www.kickstarter.com/projects/1066206195/2037593250/edit
+https://www.kickstarter.com/projects/1066206195/2037593250?token=8455c480
 
 What is SmartCan? What is our Cause?
 ========
