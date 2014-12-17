@@ -6,6 +6,8 @@ Spark-Connected Garbage Can
 
 Assumptions + Ideas → Product
 
+www.kickstarter.com/projects/1066206195/2037593250/edit
+
 What is SmartCan? What is our Cause?
 ========
 Tired of carrying a heavy garbage can and always ripping it? Missing your opportunity to take the trash out at the right time? It is easy to ignore the mundane task of dumping the garbage as it fills up. When attempting to close the bag, the bag rips. Now your garbage is all over the ground. Introducing the first residential smart garbage can! The "SmartCan" is a cloud-connected garbage can that informs you of when it is the perfect time to take out your trash.
