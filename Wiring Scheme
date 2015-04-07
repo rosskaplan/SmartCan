@@ -1,9 +1,0 @@
-IR sensor wiring color scheme:  
-
-Black is Voltage Output
-Blue is ground
-Red is Vcc (3.3 volts in this case)
-
-Scale wiring scheme:
-
-The scale is just a variable resistor, so leads are non-polar
